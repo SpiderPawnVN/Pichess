@@ -1,0 +1,177 @@
+END USER LICENSE AGREEMENT (EULA)
+PCOD SOFTWARE
+
+EULA Version: 1.0
+Effective date: 14 June 2026
+Software: PCOD v1.0-RC1
+Owner/Licensor: SpiderPawn Việt Nam
+Contact email: spiderpawn@hoccovua.com
+
+IMPORTANT NOTICE
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING, COPYING, ACCESSING OR USING PCOD.
+
+By installing, launching, copying or continuing to use the Software, the User confirms that the User has read, understood and agrees to be bound by all terms of this Agreement.
+
+If the User does not agree to any term, the User must not install or use the Software and must delete every copy in the User's possession or control.
+
+ARTICLE 1. DEFINITIONS
+
+1.1. “Software” means PCOD and includes, without limitation:
+
+a) the computer program in executable form;
+
+b) source code, if supplied by the Owner;
+
+c) the user interface, screen design, icons, functional structure and help content;
+
+d) technical documentation and user documentation;
+
+e) configuration files, data samples, database structures and components developed specifically for PCOD; and
+
+f) bug fixes, updates and upgrades released by the Owner.
+
+1.2. “Owner” means SpiderPawn Việt Nam, which owns or lawfully controls the rights required to license the Software and its proprietary components.
+
+1.3. “User” means any individual or organization that installs, accesses or uses the Software.
+
+1.4. “Non-commercial purpose” means use that is not intended, directly or indirectly, to generate revenue, profit, remuneration, economic benefit or commercial advantage.
+
+Non-commercial use may include personal study and research, management of personal chess data, tuition-free teaching or research, non-profit academic or community activities, and personal evaluation or testing.
+
+1.5. “Commercial purpose” includes any use that generates or supports revenue, profit, remuneration, business advantage or economic value, including paid services, paid coaching or teaching, internal business use, sponsored or paid tournaments, commercial books or courses, Software as a Service, integration into a commercial product or service, services supplied to clients, and monetized content.
+
+ARTICLE 2. LICENSE GRANT
+
+2.1. Subject to full compliance with this Agreement, the Owner grants the User a license that is free of charge, non-exclusive, non-transferable, non-sublicensable, limited to non-commercial purposes and effective until terminated under this Agreement.
+
+2.2. An individual User may install the Software on a reasonable number of devices owned or controlled by that User for personal use. A non-profit organization or educational institution wishing to deploy the Software on multiple devices must obtain the Owner's prior written consent unless the Owner states otherwise.
+
+2.3. The User may make one backup copy solely for recovery, provided that the copy is not supplied to a third party and retains all copyright and license notices.
+
+2.4. If PCOD source code is supplied, that supply does not make PCOD open-source software. The User may inspect or compile the unmodified source solely to run the Software for a permitted purpose. The User may not modify, rewrite, further develop, extract or distribute the source code without the Owner's prior written permission.
+
+ARTICLE 3. PROHIBITED ACTIVITIES
+
+Unless the Owner gives prior written permission, the User must not:
+
+a) use the Software for any commercial purpose;
+
+b) redistribute, upload, publish, host, sell, rent, lend, give, transfer or sublicense the Software, or create an unauthorized download link;
+
+c) modify the source code or executable, rewrite or port PCOD, change its programming language or structure, create patches, mods, plugins or derivative works that interfere with PCOD source code, or use a substantial part of PCOD to develop another product or service;
+
+d) reverse engineer, decompile, decode, disassemble, analyze executable code, circumvent a technical protection measure, seek access to undisclosed source code, or interfere with licensing or copyright information, except to the minimum extent that mandatory law expressly permits and does not allow contractual exclusion;
+
+e) remove, hide or alter the PCOD name, author or Owner name, copyright notice, license notice, trademark, logo or other identifying information; or
+
+f) claim authorship or ownership of PCOD, describe an altered version as official, use the PCOD name to promote an unauthorized product or service, or create a false impression of agency, partnership or authorization.
+
+Changing settings through functions expressly provided by the Software is not considered modification of the Software.
+
+ARTICLE 4. COMMERCIAL AND SPECIAL LICENSES
+
+This EULA grants no commercial-use right. Any person or organization wishing to use PCOD commercially, provide paid services, redistribute PCOD, integrate it into another product, modify or develop from its source code, or deploy it at organizational scale must contact the Owner at spiderpawn@hoccovua.com and obtain a separate written license. Silence or failure to respond is not consent.
+
+ARTICLE 5. INTELLECTUAL PROPERTY
+
+The Software is licensed, not sold. All rights, title and interests in PCOD and its proprietary components remain with the Owner or the relevant lawful licensor, including copyright in the program, source and executable code, interface, documentation, PCOD name, icons and identifying signs, updates, fixes and later versions.
+
+All rights not expressly granted are reserved. Downloading, receiving source code, installing or using the Software transfers no intellectual-property ownership to the User.
+
+ARTICLE 6. USER DATA
+
+The User retains rights in lawful data created or imported by the User, including PGN files, chess databases, notes, comments, audio files and personal documents.
+
+The User is solely responsible for having the rights required to use and process such data and for ensuring that it does not infringe third-party rights or law. The Owner is not responsible for unlawful content, copyright infringement by the User, data loss, database corruption or failure to maintain backups.
+
+The User must back up important databases and files before updating, reconfiguring or using functions that can alter data.
+
+ARTICLE 7. THIRD-PARTY COMPONENTS AND EXTENSIONS
+
+The Software may include or work with libraries, fonts, tools, codecs, extensions or other components developed by third parties. Those components are governed by their respective licenses. This EULA does not restrict or withdraw rights granted by a valid third-party license.
+
+Where terms differ, the third-party license governs the third-party component and this EULA governs PCOD code, interface, documentation and proprietary resources. A right to modify or distribute a third-party library does not create a right to modify or distribute PCOD.
+
+The restrictions on modification and reverse engineering in this EULA do not apply to the extent necessary to exercise rights expressly granted under a third-party license, including the right to modify a replaceable LGPL library and reverse engineer solely to debug modifications to that library.
+
+Users and developers may create and distribute independent extensions through a public PCOD Extension API expressly published by the Owner, provided that the extension does not copy, modify or distribute proprietary PCOD code or resources, bypass security or licensing controls, or falsely claim official status.
+
+Applicable third-party notices and licenses are supplied in the licenses, THIRD-PARTY-NOTICES or equivalent materials distributed with the Software.
+
+ARTICLE 8. UPDATES
+
+The Owner may, but is not obliged to, release fixes, updates, new versions or functional changes, and may discontinue development or support for any version.
+
+A later version may be accompanied by a new EULA. The User is bound by that new EULA for the later version only after accepting it. The Owner does not guarantee compatibility with old operating systems, devices, externally modified databases, plugins or third-party software.
+
+ARTICLE 9. TECHNICAL SUPPORT
+
+The Software is provided free of charge and without an obligation to provide technical support. Any assistance, guidance or bug fixing is voluntary unless governed by a separate written service agreement.
+
+Support may be refused for unofficial or modified versions, copies obtained from unauthorized sources, Users in breach of this EULA, or problems caused by third-party systems, devices or software.
+
+ARTICLE 10. DISCLAIMER OF WARRANTIES
+
+To the maximum extent permitted by law, the Software is provided “AS IS” and “AS AVAILABLE.” The Owner does not warrant that the Software is error-free, uninterrupted, suitable for every purpose, compatible with every device or system, capable of processing or recovering every item of data, or absolutely accurate in every search, analysis or display result.
+
+The User must assess suitability before using the Software with important data.
+
+ARTICLE 11. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by law, the Owner is not liable for indirect, incidental, special or consequential loss arising from use of, or inability to use, the Software, including data loss, database corruption, lost revenue or profit, business interruption, lost opportunity, damage to other software or equipment, or third-party claims.
+
+The Owner's total liability, if any, will not exceed the amount actually paid by the User for a Software license during the twelve months preceding the event giving rise to liability. Because the Software is licensed free of charge under this EULA, that amount may be zero.
+
+Nothing in this Article excludes liability that mandatory law does not permit to be excluded or limited.
+
+ARTICLE 12. CONSEQUENCES OF BREACH
+
+The User is responsible for actual damage caused by unauthorized distribution, commercial use, modification, rewriting or other infringement. The Owner may require cessation, removal of unauthorized copies, termination of the license, compensation for damage and any other lawful intellectual-property remedy.
+
+ARTICLE 13. TERMINATION
+
+The license terminates automatically if the User breaches this EULA, without a requirement for prior notice.
+
+Upon termination, the User must stop using the Software, uninstall it, delete copies and source code in the User's possession, stop providing access to third parties and remove unlawfully uploaded or distributed copies.
+
+Termination does not remove the User's rights in lawful User-created data. Provisions concerning intellectual property, liability, breach, disputes and obligations intended to survive remain effective.
+
+ARTICLE 14. FEEDBACK
+
+The User may voluntarily submit feedback, bug reports or improvement suggestions. Doing so does not require the Owner to adopt the suggestion, pay compensation, grant ownership in a later version or credit the User. The User must not submit confidential or proprietary third-party code or content without permission.
+
+ARTICLE 15. GOVERNING LAW
+
+This EULA is governed by the laws of the Socialist Republic of Vietnam. Matters concerning copyright, computer programs, electronic transactions, civil obligations and liability are determined under applicable Vietnamese law.
+
+ARTICLE 16. DISPUTE RESOLUTION
+
+The parties will first seek to resolve a dispute through good-faith negotiation. If it is not resolved within thirty days after written notice, it may be submitted to a court with jurisdiction under Vietnamese law. To the extent permitted by law, the parties agree to the jurisdiction of the court at the Owner's residence or registered office.
+
+ARTICLE 17. SEVERABILITY
+
+If a provision is held invalid, unlawful or unenforceable, it will be adjusted to the minimum extent necessary or severed, and the remaining provisions will continue in effect.
+
+ARTICLE 18. NO WAIVER
+
+A delay or failure by the Owner to exercise a right is not a waiver. Permission in one particular case does not authorize another case or amend this EULA.
+
+ARTICLE 19. ENTIRE AGREEMENT
+
+This EULA, together with applicable third-party notices, is the entire agreement concerning use of the Software. Any commercial-use, modification, integration or redistribution right is valid only if granted by the Owner in writing.
+
+ARTICLE 20. CONTACT
+
+Requests concerning commercial licensing, redistribution, organizational use, integration, modification, copyright reports or support should be sent to:
+
+Owner: SpiderPawn Việt Nam
+Email: spiderpawn@hoccovua.com
+
+USER ACKNOWLEDGEMENT
+
+By installing or using PCOD, the User confirms that the User has read and understood this EULA, will use PCOD only for non-commercial purposes, will not modify, rewrite or create unauthorized derivative works, will not redistribute PCOD, will respect the Owner's intellectual-property rights, and accepts that the Software is supplied free of charge on an as-is basis.
+
+Copyright © 2026 SpiderPawn Việt Nam. All rights reserved.
+
+PCOD is proprietary software licensed free of charge for non-commercial use. PCOD is not open-source software, except for separately identified third-party components governed by their own licenses.

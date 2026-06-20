@@ -1,0 +1,537 @@
+THỎA THUẬN GIẤY PHÉP NGƯỜI DÙNG CUỐI (EULA)
+PHẦN MỀM PCOD
+
+Phiên bản EULA: 1.0
+Ngày hiệu lực: 14/06/2026
+Phần mềm: PCOD v1.0-RC1
+Chủ sở hữu/Chủ thể cấp phép: SpiderPawn Việt Nam
+Email liên hệ: spiderpawn@hoccovua.com
+
+ĐIỀU QUAN TRỌNG
+
+VUI LÒNG ĐỌC KỸ THỎA THUẬN NÀY TRƯỚC KHI CÀI ĐẶT, SAO CHÉP, TRUY CẬP HOẶC SỬ DỤNG PHẦN MỀM PCOD.
+
+Bằng việc cài đặt, khởi chạy, sao chép hoặc tiếp tục sử dụng Phần mềm, Người dùng xác nhận rằng mình đã đọc, hiểu và đồng ý bị ràng buộc bởi toàn bộ nội dung của Thỏa thuận này.
+
+Nếu không đồng ý với bất kỳ điều khoản nào, Người dùng không được cài đặt hoặc sử dụng Phần mềm và phải xóa tất cả bản sao Phần mềm đang có.
+
+ĐIỀU 1. GIẢI THÍCH TỪ NGỮ
+
+1.1. “Phần mềm”
+
+“Phần mềm” là phần mềm PCOD, bao gồm nhưng không giới hạn:
+
+a) Chương trình máy tính dưới dạng mã thực thi;
+
+b) Mã nguồn, nếu được Chủ sở hữu cung cấp;
+
+c) Giao diện người dùng, thiết kế màn hình, biểu tượng, cấu trúc chức năng và nội dung hướng dẫn;
+
+d) Tài liệu kỹ thuật, tài liệu hướng dẫn sử dụng;
+
+đ) Tệp cấu hình, mẫu dữ liệu, cấu trúc cơ sở dữ liệu và các thành phần được phát triển riêng cho PCOD;
+
+e) Các bản sửa lỗi, bản cập nhật và phiên bản nâng cấp do Chủ sở hữu phát hành.
+
+1.2. “Chủ sở hữu”
+
+“Chủ sở hữu” là SpiderPawn Việt Nam, có quyền cấp phép đối với Phần mềm và các thành phần thuộc quyền sở hữu của mình.
+
+1.3. “Người dùng”
+
+“Người dùng” là cá nhân hoặc tổ chức cài đặt, truy cập hoặc sử dụng Phần mềm.
+
+1.4. “Mục đích phi thương mại”
+
+“Mục đích phi thương mại” là việc sử dụng Phần mềm hoàn toàn không nhằm tạo doanh thu, lợi nhuận, thù lao, lợi ích kinh tế hoặc lợi thế thương mại trực tiếp hay gián tiếp.
+
+Việc sử dụng phi thương mại có thể bao gồm:
+
+a) Học tập và nghiên cứu cá nhân;
+
+b) Quản lý dữ liệu cờ vua cá nhân;
+
+c) Giảng dạy hoặc nghiên cứu không thu phí;
+
+d) Hoạt động giáo dục, học thuật hoặc cộng đồng phi lợi nhuận mà việc sử dụng Phần mềm không gắn với bất kỳ khoản thu nào;
+
+đ) Đánh giá và thử nghiệm Phần mềm cho nhu cầu cá nhân.
+
+1.5. “Mục đích thương mại”
+
+“Mục đích thương mại” bao gồm mọi trường hợp sử dụng Phần mềm để tạo ra hoặc hỗ trợ tạo ra doanh thu, lợi nhuận, thù lao, lợi thế kinh doanh hoặc giá trị kinh tế, bao gồm nhưng không giới hạn:
+
+a) Bán, cho thuê hoặc cung cấp dịch vụ có thu phí;
+
+b) Huấn luyện, đào tạo, giảng dạy hoặc tư vấn có thu phí;
+
+c) Sử dụng tại doanh nghiệp hoặc trong hoạt động kinh doanh nội bộ;
+
+d) Quản lý giải đấu, câu lạc bộ hoặc sự kiện có thu phí, tài trợ hoặc quảng cáo thương mại;
+
+đ) Sản xuất sách, giáo trình, khóa học, video, nội dung hoặc cơ sở dữ liệu nhằm mục đích kinh doanh;
+
+e) Cung cấp Phần mềm hoặc chức năng của Phần mềm dưới dạng dịch vụ trực tuyến, dịch vụ đám mây, dịch vụ thuê bao hoặc Software as a Service;
+
+g) Tích hợp Phần mềm vào sản phẩm, thiết bị, hệ thống hoặc dịch vụ khác được bán hoặc cung cấp thương mại;
+
+h) Sử dụng Phần mềm để cung cấp dịch vụ cho khách hàng, đối tác hoặc bên thứ ba có thu phí;
+
+i) Sử dụng Phần mềm trong nội dung có bật quảng cáo, tài trợ, hội viên trả phí hoặc các hình thức kiếm tiền khác.
+
+ĐIỀU 2. PHẠM VI CẤP PHÉP
+
+2.1. Quyền được cấp
+
+Với điều kiện Người dùng tuân thủ đầy đủ Thỏa thuận này, Chủ sở hữu cấp cho Người dùng một giấy phép:
+
+a) Miễn phí;
+
+b) Không độc quyền;
+
+c) Không được chuyển giao;
+
+d) Không được cấp lại cho bên thứ ba;
+
+đ) Chỉ dành cho mục đích phi thương mại;
+
+e) Có hiệu lực cho đến khi bị chấm dứt theo Thỏa thuận này.
+
+2.2. Số lượng bản cài đặt
+
+Người dùng cá nhân được cài đặt Phần mềm trên các thiết bị do mình sở hữu hoặc kiểm soát, với số lượng hợp lý phục vụ nhu cầu cá nhân.
+
+Tổ chức phi lợi nhuận hoặc cơ sở giáo dục muốn cài đặt Phần mềm trên nhiều thiết bị phải có sự đồng ý trước bằng văn bản của Chủ sở hữu, trừ khi Chủ sở hữu có thông báo khác.
+
+2.3. Bản sao dự phòng
+
+Người dùng được tạo một bản sao dự phòng Phần mềm, với điều kiện:
+
+a) Bản sao chỉ được sử dụng để khôi phục Phần mềm;
+
+b) Không cung cấp bản sao cho bên thứ ba;
+
+c) Giữ nguyên đầy đủ thông tin bản quyền và thông báo giấy phép.
+
+2.4. Trường hợp cung cấp mã nguồn
+
+Nếu mã nguồn của PCOD được cung cấp kèm theo Phần mềm, việc cung cấp mã nguồn không đồng nghĩa với việc Phần mềm trở thành phần mềm nguồn mở.
+
+Người dùng chỉ được xem hoặc biên dịch nguyên trạng mã nguồn để chạy Phần mềm cho mục đích được cấp phép. Người dùng không được sửa đổi, viết lại, phát triển tiếp, trích xuất hoặc phân phối mã nguồn, trừ khi có sự cho phép trước bằng văn bản của Chủ sở hữu.
+
+ĐIỀU 3. CÁC HÀNH VI BỊ CẤM
+
+Trừ khi được Chủ sở hữu cho phép trước bằng văn bản, Người dùng không được thực hiện hoặc cho phép người khác thực hiện bất kỳ hành vi nào sau đây:
+
+3.1. Sử dụng thương mại
+
+Sử dụng Phần mềm cho bất kỳ mục đích thương mại nào được quy định tại Điều 1.5.
+
+3.2. Phân phối lại
+
+a) Sao chép và cung cấp Phần mềm cho người khác;
+
+b) Đăng tải Phần mềm lên website, diễn đàn, mạng xã hội, kho mã nguồn, dịch vụ lưu trữ hoặc nền tảng chia sẻ tệp;
+
+c) Tạo đường dẫn tải xuống Phần mềm từ nguồn không được Chủ sở hữu chấp thuận;
+
+d) Phân phối Phần mềm cùng sản phẩm, bộ cài đặt, thiết bị hoặc dịch vụ khác;
+
+đ) Bán, cho thuê, cho mượn, tặng, chuyển giao hoặc cấp lại quyền sử dụng Phần mềm.
+
+Việc Phần mềm được cung cấp miễn phí không làm phát sinh quyền phân phối lại cho Người dùng.
+
+3.3. Sửa đổi và tạo sản phẩm phái sinh
+
+a) Sửa đổi mã nguồn hoặc mã thực thi của Phần mềm;
+
+b) Viết lại, chuyển đổi hoặc phát triển phiên bản khác dựa trên mã nguồn PCOD;
+
+c) Dịch, chuyển nền tảng, chuyển ngôn ngữ lập trình hoặc thay đổi cấu trúc Phần mềm;
+
+d) Tạo bản vá, bản mod, plugin hoặc tiện ích mở rộng can thiệp vào mã nguồn PCOD;
+
+đ) Sử dụng toàn bộ hoặc một phần đáng kể mã nguồn PCOD để phát triển sản phẩm, phần mềm hoặc dịch vụ khác;
+
+e) Tạo, công bố hoặc phân phối sản phẩm phái sinh từ Phần mềm.
+
+Việc thay đổi các thiết lập được Phần mềm cho phép thông qua giao diện người dùng không bị coi là sửa đổi Phần mềm.
+
+3.4. Phân tích ngược
+
+a) Dịch ngược;
+
+b) Giải mã;
+
+c) Tháo rời;
+
+d) Phân tích mã thực thi;
+
+đ) Vượt qua biện pháp bảo vệ kỹ thuật;
+
+e) Tìm cách truy cập mã nguồn không được công bố;
+
+g) Can thiệp vào cơ chế kiểm tra giấy phép hoặc thông tin bản quyền;
+
+trừ phạm vi tối thiểu mà pháp luật bắt buộc cho phép và không cho phép các bên thỏa thuận loại trừ.
+
+Các hạn chế tại Điều 3.3 và Điều 3.4 không áp dụng đối với thành phần của bên thứ ba trong phạm vi giấy phép riêng của thành phần đó bắt buộc phải cho phép. Đối với các thư viện âm thanh LGPL 2.1 được đặt riêng trong thư mục `lib/audio/`, Người dùng được quyền thay thế bằng phiên bản tương thích đã sửa đổi và được phân tích ngược PCOD trong phạm vi cần thiết duy nhất để gỡ lỗi các sửa đổi đối với chính thư viện LGPL đó. Ngoại lệ này không cấp quyền sửa đổi, viết lại hoặc phân phối phần mã PCOD thuộc SpiderPawn Việt Nam.
+
+3.5. Xóa thông tin nhận diện
+
+Người dùng không được xóa, che giấu hoặc thay đổi:
+
+a) Tên phần mềm PCOD;
+
+b) Tên tác giả hoặc Chủ sở hữu;
+
+c) Thông báo bản quyền;
+
+d) Thông tin giấy phép;
+
+đ) Nhãn hiệu, biểu tượng hoặc thông tin nhận diện khác của Phần mềm.
+
+3.6. Mạo danh và gây nhầm lẫn
+
+Người dùng không được:
+
+a) Tuyên bố mình là tác giả hoặc chủ sở hữu PCOD;
+
+b) Tuyên bố phiên bản đã sửa đổi là phiên bản chính thức;
+
+c) Sử dụng tên PCOD để quảng bá sản phẩm hoặc dịch vụ không được Chủ sở hữu chấp thuận;
+
+d) Thực hiện hành vi khiến người khác hiểu nhầm rằng Người dùng có quan hệ đại diện, hợp tác hoặc được ủy quyền bởi Chủ sở hữu.
+
+ĐIỀU 4. CẤP PHÉP THƯƠNG MẠI VÀ CÁC QUYỀN ĐẶC BIỆT
+
+EULA này không cấp quyền sử dụng Phần mềm cho mục đích thương mại.
+
+Cá nhân hoặc tổ chức có nhu cầu:
+
+a) Sử dụng Phần mềm trong hoạt động kinh doanh;
+
+b) Sử dụng Phần mềm để cung cấp dịch vụ có thu phí;
+
+c) Phân phối lại Phần mềm;
+
+d) Tích hợp Phần mềm vào sản phẩm khác;
+
+đ) Sửa đổi hoặc phát triển dựa trên mã nguồn PCOD;
+
+e) Sử dụng Phần mềm trong tổ chức với số lượng lớn;
+
+phải liên hệ với Chủ sở hữu qua email spiderpawn@hoccovua.com để đề nghị cấp giấy phép riêng bằng văn bản.
+
+Việc Chủ sở hữu không trả lời đề nghị không được hiểu là đã chấp thuận.
+
+ĐIỀU 5. QUYỀN SỞ HỮU TRÍ TUỆ
+
+5.1. Quyền đối với Phần mềm
+
+Phần mềm được cấp quyền sử dụng, không được bán hoặc chuyển nhượng quyền sở hữu.
+
+Toàn bộ quyền, quyền sở hữu và lợi ích liên quan đến Phần mềm thuộc về Chủ sở hữu hoặc bên cấp quyền hợp pháp cho Chủ sở hữu, bao gồm:
+
+a) Quyền tác giả đối với chương trình máy tính;
+
+b) Quyền đối với mã nguồn và mã thực thi;
+
+c) Quyền đối với giao diện, tài liệu và nội dung do Chủ sở hữu tạo ra;
+
+d) Tên gọi, biểu tượng và dấu hiệu nhận diện PCOD;
+
+đ) Các bản cập nhật, sửa lỗi và phiên bản phát triển tiếp theo.
+
+5.2. Quyền không được cấp
+
+Tất cả các quyền không được quy định rõ là cấp cho Người dùng trong Thỏa thuận này đều được Chủ sở hữu bảo lưu.
+
+5.3. Không chuyển giao quyền sở hữu
+
+Việc tải xuống, nhận mã nguồn, cài đặt hoặc sử dụng Phần mềm không làm chuyển giao cho Người dùng bất kỳ quyền sở hữu trí tuệ nào đối với Phần mềm.
+
+ĐIỀU 6. DỮ LIỆU CỦA NGƯỜI DÙNG
+
+6.1. Quyền đối với dữ liệu
+
+Người dùng giữ quyền đối với các dữ liệu hợp pháp do mình tạo ra hoặc nhập vào Phần mềm, bao gồm:
+
+a) Tệp PGN;
+
+b) Cơ sở dữ liệu ván cờ;
+
+c) Ghi chú và bình luận;
+
+d) Tệp âm thanh;
+
+đ) Tài liệu và dữ liệu cá nhân khác.
+
+6.2. Trách nhiệm đối với dữ liệu
+
+Người dùng tự chịu trách nhiệm bảo đảm mình có quyền hợp pháp để sử dụng, sao chép và xử lý các dữ liệu đưa vào Phần mềm.
+
+Chủ sở hữu không chịu trách nhiệm đối với:
+
+a) Dữ liệu vi phạm quyền tác giả hoặc quyền của bên thứ ba;
+
+b) Nội dung bất hợp pháp do Người dùng nhập vào;
+
+c) Việc mất, hỏng hoặc không thể truy cập dữ liệu;
+
+d) Việc Người dùng không thực hiện sao lưu dữ liệu.
+
+6.3. Sao lưu
+
+Người dùng có trách nhiệm tự sao lưu cơ sở dữ liệu và các tệp quan trọng trước khi cập nhật, cấu hình lại hoặc sử dụng các chức năng có khả năng làm thay đổi dữ liệu.
+
+ĐIỀU 7. THÀNH PHẦN CỦA BÊN THỨ BA
+
+Phần mềm có thể sử dụng thư viện, phông chữ, công cụ hoặc thành phần do bên thứ ba phát triển.
+
+Các thành phần của bên thứ ba được điều chỉnh bởi giấy phép riêng tương ứng của chúng. EULA này không hạn chế hoặc thay đổi các quyền mà giấy phép hợp pháp của bên thứ ba đã cấp đối với chính thành phần đó.
+
+Trong trường hợp có khác biệt:
+
+a) Giấy phép của bên thứ ba áp dụng đối với thành phần của bên thứ ba;
+
+b) EULA này áp dụng đối với mã nguồn, giao diện, tài liệu và các thành phần PCOD do Chủ sở hữu nắm quyền;
+
+c) Quyền sửa đổi hoặc phân phối một thư viện bên thứ ba không làm phát sinh quyền sửa đổi hoặc phân phối PCOD.
+
+Danh sách các thành phần và giấy phép bên thứ ba, nếu có, được ghi nhận trong tệp THIRD-PARTY-NOTICES hoặc tài liệu tương đương đi kèm Phần mềm.
+
+ĐIỀU 8. CẬP NHẬT PHẦN MỀM
+
+8.1. Quyền cung cấp cập nhật
+
+Chủ sở hữu có quyền nhưng không có nghĩa vụ:
+
+a) Phát hành bản sửa lỗi;
+
+b) Cung cấp phiên bản mới;
+
+c) Thay đổi hoặc bổ sung chức năng;
+
+d) Ngừng phát triển hoặc ngừng hỗ trợ một phiên bản.
+
+8.2. EULA của phiên bản mới
+
+Bản cập nhật hoặc phiên bản mới có thể được cung cấp kèm một EULA mới.
+
+Người dùng chỉ bị ràng buộc bởi EULA mới đối với bản cập nhật hoặc phiên bản mới sau khi Người dùng chấp thuận EULA đó.
+
+8.3. Khả năng tương thích
+
+Chủ sở hữu không bảo đảm rằng phiên bản mới sẽ tương thích hoàn toàn với:
+
+a) Hệ điều hành cũ;
+
+b) Thiết bị cũ;
+
+c) Cơ sở dữ liệu được chỉnh sửa ngoài Phần mềm;
+
+d) Plugin, công cụ hoặc phần mềm bên thứ ba.
+
+ĐIỀU 9. HỖ TRỢ KỸ THUẬT
+
+Phần mềm được cung cấp miễn phí và không kèm nghĩa vụ hỗ trợ kỹ thuật.
+
+Mọi hoạt động hướng dẫn, giải đáp, sửa lỗi hoặc hỗ trợ do Chủ sở hữu thực hiện là tự nguyện, trừ khi có thỏa thuận dịch vụ riêng bằng văn bản.
+
+Chủ sở hữu có quyền từ chối hỗ trợ đối với:
+
+a) Phiên bản không chính thức;
+
+b) Phần mềm đã bị sửa đổi;
+
+c) Bản sao được tải từ nguồn không được chấp thuận;
+
+d) Người dùng vi phạm EULA;
+
+đ) Lỗi phát sinh từ hệ thống, thiết bị hoặc phần mềm bên thứ ba.
+
+ĐIỀU 10. TUYÊN BỐ TỪ CHỐI BẢO ĐẢM
+
+Trong phạm vi tối đa pháp luật cho phép, Phần mềm được cung cấp trên cơ sở “nguyên trạng” và “sẵn có”.
+
+Chủ sở hữu không bảo đảm rằng:
+
+a) Phần mềm hoàn toàn không có lỗi;
+
+b) Phần mềm hoạt động liên tục hoặc không bị gián đoạn;
+
+c) Phần mềm đáp ứng mọi nhu cầu cụ thể của Người dùng;
+
+d) Phần mềm tương thích với mọi thiết bị, hệ điều hành hoặc phần mềm khác;
+
+đ) Mọi dữ liệu đều được xử lý hoặc khôi phục thành công;
+
+e) Kết quả tìm kiếm, phân tích hoặc hiển thị của Phần mềm luôn chính xác tuyệt đối.
+
+Người dùng tự đánh giá sự phù hợp của Phần mềm trước khi sử dụng cho dữ liệu quan trọng.
+
+ĐIỀU 11. GIỚI HẠN TRÁCH NHIỆM
+
+Trong phạm vi tối đa pháp luật cho phép, Chủ sở hữu không chịu trách nhiệm đối với các thiệt hại gián tiếp, ngẫu nhiên, đặc biệt hoặc hệ quả phát sinh từ việc sử dụng hoặc không thể sử dụng Phần mềm, bao gồm:
+
+a) Mất dữ liệu;
+
+b) Hỏng cơ sở dữ liệu;
+
+c) Mất doanh thu hoặc lợi nhuận;
+
+d) Gián đoạn công việc;
+
+đ) Mất cơ hội;
+
+e) Hư hỏng thiết bị hoặc phần mềm khác;
+
+g) Khiếu nại của bên thứ ba.
+
+Tổng trách nhiệm của Chủ sở hữu phát sinh liên quan đến Phần mềm, nếu có, không vượt quá tổng số tiền Người dùng đã thực tế thanh toán cho giấy phép sử dụng Phần mềm trong 12 tháng trước khi phát sinh sự kiện trách nhiệm.
+
+Do Phần mềm được cấp phép miễn phí theo EULA này, Người dùng hiểu rằng có thể không có khoản phí giấy phép đã thanh toán.
+
+Các giới hạn trên không áp dụng đối với trách nhiệm không được phép loại trừ hoặc giới hạn theo quy định bắt buộc của pháp luật.
+
+ĐIỀU 12. TRÁCH NHIỆM DO VI PHẠM
+
+Người dùng chịu trách nhiệm đối với mọi thiệt hại thực tế phát sinh từ hành vi vi phạm EULA của mình, bao gồm hành vi:
+
+a) Phân phối Phần mềm trái phép;
+
+b) Sử dụng Phần mềm cho mục đích thương mại;
+
+c) Sửa đổi hoặc viết lại Phần mềm trái phép;
+
+d) Xâm phạm quyền tác giả hoặc quyền sở hữu trí tuệ;
+
+đ) Cung cấp Phần mềm cho bên thứ ba sử dụng trái phép.
+
+Chủ sở hữu có quyền yêu cầu:
+
+a) Chấm dứt hành vi vi phạm;
+
+b) Gỡ bỏ bản sao được đăng tải hoặc phân phối trái phép;
+
+c) Thu hồi quyền sử dụng;
+
+d) Bồi thường thiệt hại theo pháp luật;
+
+đ) Áp dụng các biện pháp bảo vệ quyền sở hữu trí tuệ khác theo quy định pháp luật.
+
+ĐIỀU 13. CHẤM DỨT GIẤY PHÉP
+
+13.1. Chấm dứt do Người dùng vi phạm
+
+Giấy phép được cấp theo EULA này tự động chấm dứt nếu Người dùng vi phạm bất kỳ điều khoản nào mà không cần Chủ sở hữu phải thông báo trước.
+
+13.2. Hậu quả chấm dứt
+
+Khi giấy phép chấm dứt, Người dùng phải:
+
+a) Ngừng sử dụng Phần mềm;
+
+b) Gỡ cài đặt Phần mềm khỏi các thiết bị;
+
+c) Xóa các bản sao Phần mềm và mã nguồn đang lưu giữ;
+
+d) Ngừng cung cấp quyền truy cập Phần mềm cho bên thứ ba;
+
+đ) Gỡ bỏ các bản sao đã đăng tải hoặc phân phối trái phép.
+
+Việc chấm dứt giấy phép không làm mất quyền của Người dùng đối với dữ liệu hợp pháp do Người dùng tạo ra. Người dùng có trách nhiệm xuất hoặc sao lưu dữ liệu trước khi ngừng sử dụng Phần mềm.
+
+13.3. Điều khoản tiếp tục có hiệu lực
+
+Các điều khoản về quyền sở hữu trí tuệ, trách nhiệm do vi phạm, giới hạn trách nhiệm, giải quyết tranh chấp và các nghĩa vụ có bản chất cần tiếp tục thực hiện vẫn có hiệu lực sau khi giấy phép chấm dứt.
+
+ĐIỀU 14. PHẢN HỒI VÀ ĐỀ XUẤT
+
+Người dùng có thể tự nguyện gửi ý kiến, báo lỗi hoặc đề xuất cải tiến cho Chủ sở hữu.
+
+Việc gửi phản hồi không làm phát sinh nghĩa vụ cho Chủ sở hữu phải:
+
+a) Áp dụng đề xuất;
+
+b) Trả phí hoặc thù lao;
+
+c) Cấp quyền sở hữu đối với phiên bản Phần mềm sau này;
+
+d) Ghi tên Người dùng trong sản phẩm.
+
+Người dùng không được gửi cho Chủ sở hữu mã nguồn hoặc nội dung thuộc quyền bí mật hoặc quyền sở hữu của bên thứ ba nếu chưa được phép.
+
+ĐIỀU 15. PHÁP LUẬT ÁP DỤNG
+
+EULA này được điều chỉnh và giải thích theo pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+Các vấn đề liên quan đến quyền tác giả, chương trình máy tính, giao dịch điện tử, nghĩa vụ dân sự và trách nhiệm do vi phạm được giải quyết theo pháp luật Việt Nam hiện hành.
+
+ĐIỀU 16. GIẢI QUYẾT TRANH CHẤP
+
+Mọi tranh chấp phát sinh từ hoặc liên quan đến EULA này trước hết được các bên giải quyết thông qua thương lượng thiện chí.
+
+Nếu tranh chấp không được giải quyết trong vòng 30 ngày kể từ ngày một bên thông báo tranh chấp bằng văn bản, tranh chấp được đưa ra Tòa án có thẩm quyền theo pháp luật Việt Nam.
+
+Trong phạm vi pháp luật cho phép, các bên thống nhất Tòa án tại nơi Chủ sở hữu cư trú hoặc đặt trụ sở có thẩm quyền giải quyết tranh chấp.
+
+ĐIỀU 17. HIỆU LỰC TỪNG PHẦN
+
+Nếu bất kỳ điều khoản nào của EULA bị xác định là vô hiệu, bất hợp pháp hoặc không thể thi hành, điều khoản đó được điều chỉnh trong phạm vi tối thiểu cần thiết hoặc được tách khỏi EULA.
+
+Các điều khoản còn lại vẫn giữ nguyên hiệu lực.
+
+ĐIỀU 18. KHÔNG TỪ BỎ QUYỀN
+
+Việc Chủ sở hữu chưa thực hiện hoặc chậm thực hiện một quyền theo EULA không được hiểu là từ bỏ quyền đó.
+
+Việc Chủ sở hữu cho phép một trường hợp cụ thể không được hiểu là cho phép các trường hợp khác hoặc sửa đổi EULA.
+
+ĐIỀU 19. TOÀN BỘ THỎA THUẬN
+
+EULA này cùng với các thông báo giấy phép của bên thứ ba, nếu có, tạo thành toàn bộ thỏa thuận giữa Chủ sở hữu và Người dùng liên quan đến việc sử dụng Phần mềm.
+
+Mọi quyền sử dụng thương mại, sửa đổi, phân phối hoặc tích hợp Phần mềm chỉ có giá trị khi được Chủ sở hữu chấp thuận bằng văn bản.
+
+ĐIỀU 20. THÔNG TIN LIÊN HỆ
+
+Mọi yêu cầu liên quan đến:
+
+a) Cấp phép thương mại;
+
+b) Xin phép phân phối;
+
+c) Sử dụng trong tổ chức;
+
+d) Tích hợp hoặc sửa đổi Phần mềm;
+
+đ) Báo cáo vi phạm bản quyền;
+
+e) Hỗ trợ kỹ thuật;
+
+được gửi tới:
+
+Chủ sở hữu: SpiderPawn Việt Nam
+Email: spiderpawn@hoccovua.com
+
+XÁC NHẬN CỦA NGƯỜI DÙNG
+
+Bằng việc cài đặt, khởi chạy, sao chép hoặc tiếp tục sử dụng Phần mềm, Người dùng xác nhận rằng:
+
+1. Đã đọc và hiểu EULA này;
+
+2. Đồng ý chỉ sử dụng PCOD cho mục đích phi thương mại;
+
+3. Không sửa đổi, viết lại hoặc tạo sản phẩm phái sinh từ PCOD;
+
+4. Không phân phối lại PCOD dưới bất kỳ hình thức nào;
+
+5. Đồng ý tuân thủ quyền sở hữu trí tuệ của Chủ sở hữu;
+
+6. Chấp nhận rằng Phần mềm được cung cấp miễn phí trên cơ sở nguyên trạng.
+
+Bản quyền © 2026 SpiderPawn Việt Nam. Bảo lưu mọi quyền.
+
+PCOD là phần mềm sở hữu độc quyền được cấp phép sử dụng miễn phí cho mục đích phi thương mại. PCOD không phải là phần mềm nguồn mở, trừ các thành phần của bên thứ ba được xác định rõ trong tài liệu giấy phép đi kèm.
